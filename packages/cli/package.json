@@ -28,7 +28,7 @@
     "posthog-node": "^4.11.5",
     "semver": "^7.5.4",
     "update-notifier": "^5.1.0",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/adm-zip": "^0.5.5",
