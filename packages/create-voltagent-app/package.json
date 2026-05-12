@@ -19,7 +19,7 @@
     "ora": "^5.4.1",
     "posthog-node": "^4.11.5",
     "tar": "^6.2.0",
-    "uuid": "^9.0.1"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/boxen": "^3.0.1",
